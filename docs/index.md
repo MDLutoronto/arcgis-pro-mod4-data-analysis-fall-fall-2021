@@ -1,7 +1,14 @@
 ---
-title: "ArcGIS Pro Module 4  - Data Analysis (Fall 2021)"
+title: "ArcGIS Pro Module 4 - Data Analysis (Fall 2021)"
 layout: "home"
-description: ""
+description: "The following slide deck is for Module 4 of the ArcGIS Pro tutorial. This module helps the user apply knowledge and skills learned in previous 3 modules in solving a real life spatial problem."
+staff:
+    - name: Marcel Fortin
+      link: https://library.utoronto.ca/staff/marcel-fortin
+maintainer:
+    - name: Cole White
+      link: https://library.utoronto.ca/staff/cole-white
+created_date: 2022-01-12
 permalink: "/"  #! Remove this if not the homepage
 ---
 
@@ -11,4 +18,4 @@ The following slide deck is for Module 4 of the ArcGIS Pro tutorial. This module
 
 [https://docs.google.com/presentation/d/e/2PACX-1vRj_ke9woHnfM8xNN1xpCakC42IiEiI-rTm6gOojc1wHJ_T2glJTHHXKyvA4rL7Xg/embed?start=false&loop=false&delayms=3000](https://docs.google.com/presentation/d/e/2PACX-1vRj_ke9woHnfM8xNN1xpCakC42IiEiI-rTm6gOojc1wHJ_T2glJTHHXKyvA4rL7Xg/embed?start=false&loop=false&delayms=3000)
 
-Technique: [Mapping](/technique/mapping), [Spatial Analysis](/technique/spatial-analysis) \| Tools: [ArcGIS Pro](/taxonomy/term/70)**Date Created:** 2022\-01\-12**Updated:** 2022\-01\-19
+Technique: [Mapping](https://mdl.library.utoronto.ca/technique/mapping), [Spatial Analysis](https://mdl.library.utoronto.ca/technique/spatial-analysis) | Tools: [ArcGIS Pro](https://mdl.library.utoronto.ca/taxonomy/term/70)
