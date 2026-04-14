@@ -18,3 +18,4 @@ The following slide deck is for Module 4 of the ArcGIS Pro tutorial. This module
 
 <iframe allowfullscreen="true" frameborder="0" height="569" mozallowfullscreen="true" src="https://docs.google.com/presentation/d/e/2PACX-1vRj_ke9woHnfM8xNN1xpCakC42IiEiI-rTm6gOojc1wHJ_T2glJTHHXKyvA4rL7Xg/embed?start=false&loop=false&delayms=30000" webkitallowfullscreen="true" width="960"></iframe>
 
+Technique: [Mapping](https://mdlutoronto.github.io/tutorials-search/?technique=Mapping), [Spatial Analysis](https://mdlutoronto.github.io/tutorials-search/?technique=Spatial+Analysis) | Tools: [ArcGIS Pro](https://mdlutoronto.github.io/tutorials-search/?tool=ArcGIS+Pro)
